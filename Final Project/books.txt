@@ -1,0 +1,6 @@
+Fiction,The Great Gatsby,F. Scott Fitzgerald,Printed,180
+Science,Quantum Physics 101,Albert Einstein,EBook,4.5
+Sceince,30-second elements,Eric Scerri,Printed,160
+NonFiction,The Diary of a Young Girl,EBook,3.4
+Biography,Becoming,Michelle Obama,Printed,448
+Mystery,A Good Girl's Guide to Murder,Holly Jackson,Printed,433Fiction,Project Hail Mary,Andy Weir,Printed,482
